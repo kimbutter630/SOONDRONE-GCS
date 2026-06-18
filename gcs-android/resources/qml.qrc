@@ -1,0 +1,11 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource>
+    <file>qml/MainWindow.qml</file>
+    <file>qml/DashboardView.qml</file>
+    <file>qml/MapView.qml</file>
+    <file>qml/CameraView.qml</file>
+    <file>qml/ControlPanel.qml</file>
+    <file>qml/SettingsPanel.qml</file>
+  </qresource>
+</RCC>
